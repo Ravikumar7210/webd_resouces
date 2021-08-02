@@ -29,4 +29,9 @@ B. Image resources
 7. https://jakearchibald.github.io/svgomg/  //svg edit
 8. https://ojoy.netlify.app/
 
+C. video resources
+1. https://coverr.co/
+2. https://www.pexels.com/videos/
+6. https://www.pexels.com/videos/
+
 
