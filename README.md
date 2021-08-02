@@ -18,3 +18,15 @@ A. colors resources
 15. https://galactic.ink/sphere/
 16. http://colrd.com/
 17. http://www.colorhunter.com/
+
+B. Image resources 
+1. https://unsplash.com/
+2. https://pixabay.com/
+3. https://www.pexels.com/
+4. https://imagecompressor.com/
+5. https://coverr.co/
+6.https://imglarger.com/ // increse image resolution
+7. https://jakearchibald.github.io/svgomg/  //svg edit
+8. https://ojoy.netlify.app/
+
+
